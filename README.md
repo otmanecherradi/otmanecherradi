@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on fascinating experiences for my customers
-- 🌱 I’m currently learning [Go Lang](https://golang.org/)
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on fascinating experiences for my customers.
+- 🌱 I’m currently learning [Go Lang](https://golang.org/).
 - 💬 Ask me about [Django Framework](https://www.djangoproject.com/) and [Angular](https://angular.io/)!
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like [codewares Code-Katas](https://www.codewars.com/)
+- 📫 How to reach me: I am on Twitter at [OthmanCherradi](https://twitter.com/OthmanCherradi?s=09).
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I love [codewares Code-Katas](https://www.codewars.com/).
 
 ### Contact me
 I would be more than happy to respond to all your questions.
