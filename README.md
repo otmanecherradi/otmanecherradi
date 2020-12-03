@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on fascinating experiences for my customers
+- 🌱 I’m currently learning [Go Lang](https://golang.org/)
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about [Django Framework](https://www.djangoproject.com/) and [Angular](https://angular.io/)!
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like [codewares Code-Katas](https://www.codewars.com/)
+
+### Contact me
+I would be more than happy to respond to all your questions.
+
 <!--
 **otmanecherradi/otmanecherradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
