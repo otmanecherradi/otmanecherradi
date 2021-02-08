@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on fascinating experiences for my customers.
-- 🌱 I’m currently learning [Go Lang](https://golang.org/).
+- 🌱 I’m currently learning [C Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/).
 - 💬 Ask me about [Django Framework](https://www.djangoproject.com/) and [Angular](https://angular.io/)!
 - 📫 How to reach me: I am on Twitter at [OtmaneCherradi](https://twitter.com/OthmanCherradi?s=09).
 - 😄 Pronouns: he/him.
