@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on fascinating experiences for my customers.
 - 🌱 I’m currently learning [C Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/).
-- 💬 Ask me about [Django Framework](https://www.djangoproject.com/) and [Angular](https://angular.io/)!
+- 💬 Ask me about Full Stack [Node.js](https://nodejs.org/)!
 - 📫 How to reach me: I am on Twitter at [OtmaneCherradi](https://twitter.com/OthmanCherradi?s=09).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I love [codewares Code-Katas](https://www.codewars.com/).
